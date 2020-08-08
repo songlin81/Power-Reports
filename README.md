@@ -6,3 +6,5 @@
 ![](https://github.com/songlin81/Power-Reports/blob/master/output/break-even.png)
 ![](https://github.com/songlin81/Power-Reports/blob/master/output/correlation.png)
 ![](https://github.com/songlin81/Power-Reports/blob/master/output/RFM.png)
+![](https://github.com/songlin81/Power-Reports/blob/master/output/employee_1.png)
+![](https://github.com/songlin81/Power-Reports/blob/master/output/employee_2.png)
