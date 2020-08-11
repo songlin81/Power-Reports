@@ -10,3 +10,5 @@
 ![](https://github.com/songlin81/Power-Reports/blob/master/output/employee_2.png)
 ![](https://github.com/songlin81/Power-Reports/blob/master/output/income_1.png)
 ![](https://github.com/songlin81/Power-Reports/blob/master/output/income_2.png)
+![](https://github.com/songlin81/Power-Reports/blob/master/output/organisation_1.png)
+![](https://github.com/songlin81/Power-Reports/blob/master/output/organisation_2.png)
